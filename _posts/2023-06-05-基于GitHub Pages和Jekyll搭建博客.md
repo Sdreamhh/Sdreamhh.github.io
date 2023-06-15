@@ -15,7 +15,7 @@ image: #文章顶部的图片
 这是基于**GitHub Pages**和**Jekyll**，以**[Chirpy](https://chirpy.cotes.page/)**为主题的个人博客搭建教程。在开始之前，需要安装以下软件：
 
 - VScode：IDE
-- [Git](https://git-scm.com/)：代码托管平台
+- [Git](https://git-scm.com/)：分布式版本控制系统
 - [Jekyll](https://www.jekyll.com.cn/)：静态站点生成器
 
 ## 用GitHub创建一个新的站点
