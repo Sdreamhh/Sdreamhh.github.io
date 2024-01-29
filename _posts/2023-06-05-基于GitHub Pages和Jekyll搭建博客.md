@@ -1,10 +1,8 @@
 ---
 title: 基于 GitHub Pages 和 Jekyll 的博客搭建
-date: 2023-06-06 17:40:00 +0800
 tags: [博客]
 categories: [博客]
 math: true #是否启用数学公式
-pin: false #是否置顶文章
 image: #文章顶部的图片
    path: ../images/avatar.jpg
    alt: 我无比惊讶。
@@ -34,7 +32,7 @@ $ bundle
 $ bundle exec jekyll s
 ```
 
-此时在浏览器的网址栏中输入[localhost:4000](localhost:400)，就可以看到本地运行的网页了。
+此时在浏览器的网址栏中输入[localhost:4000](localhost:4000)，就可以看到本地运行的网页了。
 
 ## 激活站点
 
